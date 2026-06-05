@@ -1,0 +1,21 @@
+# Sass / build output
+css/style.css
+css/style.css.map
+
+# Node / npm 
+node_modules/
+package-lock.json
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Optional env files
+.env
